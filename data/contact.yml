@@ -1,0 +1,21 @@
+enable : true
+heading : Contact
+headingSpan : Us
+title : Contact Details
+content : 
+enable_maps : false
+mapLatitude : 51.5223477
+mapLongitude: -0.1622023
+contactDetails :
+  - icon : tf-map-pin
+    info : "경기도 성남시 수정구 시흥동 294-2 기업성장센터 9층 912호"
+    
+  - icon : tf-ion-ios-telephone-outline
+    info : "Phone: +070-4735-0002"
+    
+  - icon : tf-ion-iphone
+    info : "Fax: +070-4735-0003"
+    
+  - icon : tf-ion-ios-email-outline
+    info : "Email: vertexhorizon@vertexhorizon.io"
+    

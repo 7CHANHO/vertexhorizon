@@ -1,0 +1,13 @@
+enable : true
+image : images/about/about-business-man.jpg
+title : 회사 소개
+description : Vertex Horizon은 모든 VR컨텐츠 개발 및 서비스 외에 특히, 3D 그래픽의 최상의 퀄리티를 중점적으로 보다 확실한 VR 컨텐츠의 퀄리티를 추구하여 VR컨텐츠의 대중화와 VR컨텐츠 시장의 성장에 기여하고 있습니다. 
+description2 : 
+aboutItem : 
+  - icon : tf-circle-compass
+    title : 더 나은 접근성
+    content : VR컨텐츠의 그래픽을 중점적으로 두어 사용자들의 멀미나 어지러움 등 외 모든 부작용을 고퀄리티 그래픽으로 최소화
+
+  - icon : tf-hotairballoon
+    title : 최적화된 사양
+    content : VR컨텐츠의 최적화를 통하여 자사 컨텐츠를 이용할 컴퓨터의 사양을 낮춰 원활한 환경을 제공

@@ -1,0 +1,15 @@
+enable : true
+heading : About
+headingSpan : Us
+aboutItem : 
+- icon : tf-tools
+  title : 경영이념
+  content : 콘텐츠에 무한한 상상력을 더하여 더욱 즐겁고 행복한 세상을 만들겠습니다.
+
+- icon : tf-anchor2
+  title : 비전
+  content : 세계 최고의 스페셜 멀티미디어 콘텐츠 회사
+
+- icon : tf-strategy
+  title : 추구가치
+  content : 믿음 + 즐거움 + 도전 + 열정 + 신념

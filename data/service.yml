@@ -1,0 +1,15 @@
+enable : true
+heading : Our
+headingSpan : Services
+serviceItem :
+  - icon : tf-genius
+    title : 융합 컨텐츠 제작
+    content : 내용
+
+  - icon : tf-target3
+    title : 게임 컨텐츠 및 SW 제작
+    content : 내용
+
+  - icon : tf-lifesaver
+    title : VR 컨텐츠 및 SW 유통
+    content : 내용

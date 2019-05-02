@@ -1,0 +1,38 @@
+enable : true
+heading : Our
+headingSpan : Works
+filterList :
+  - filterType : 개발완료
+    filterTitle : 개발완료
+    
+  - filterType : 출시예정
+    filterTitle : 출시예정
+    
+portfolioItem :
+  - types : 개발완료
+    image : images/portfolio/portfolio-1.png
+    icon : tf-ion-android-search
+    URL : #
+    title : Bully Store
+    description : 2018년 05월 Steam 출시. 불량학생들이 주문하는 음식을 만들어 주어 모범생으로 바꾸는 캐주얼 VR 아케이드 게임
+    
+  - types : 개발완료
+    image : images/portfolio/portfolio-2.png
+    icon : tf-ion-android-search
+    URL : #
+    title : Crossing man
+    description : 2018년 06월 Steam 출시. 높은 고층빌딩에서 자신을 쫓아 오는 적들을 피하여 비밀 문서를 탈취하고 탈출하는 시뮬레이션 게임
+    
+  - types : 출시예정
+    image : images/portfolio/portfolio-3.png
+    icon : tf-ion-android-search
+    URL : #
+    title : Unbeaten
+    description : 
+    
+  - types : 출시예정
+    image : images/portfolio/portfolio-4.png
+    icon : tf-ion-android-search
+    URL : #
+    title : Gangnam Station
+    description : 
